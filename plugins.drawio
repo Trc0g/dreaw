@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T06:50:35.445Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Aiqa9yrMIGg97FKegLFK" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:31:25.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kEYzWfmJdi4T5rRgDJLs" version="20.0.4" type="github">
   <diagram id="WiWz7q4bYspyMZFVrQvD" name="Page-1">
-    <mxGraphModel dx="2546" dy="214" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="891" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,29 +545,62 @@
         <mxCell id="1dzFbmh5JjCaL7cE0-rO-153" value="&lt;font style=&quot;font-size: 14px&quot;&gt;我是弱口令&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1328" y="641" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-1" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-1" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1278" y="1422" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-2" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-2" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1172" y="1422" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-3" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-3" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1066" y="1422" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-4" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-4" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-960" y="1422" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-5" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-5" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1272" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-6" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-6" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1166" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-7" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-7" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-8" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-8" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-954" y="1537" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-13" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2377" y="-5" width="100" height="346" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="NTN1xod6j5wi56fNGffL-13" target="NTN1xod6j5wi56fNGffL-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="51" y="65" as="sourcePoint" />
+            <mxPoint x="101" y="15" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-14" value="平台" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2606" y="-5" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-15" value="cache" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2782" y="-5" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-16" value="detector" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2958" y="-5" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-17" value="探针" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3141" y="-5" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-23" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;创建包含弱口令扫描的任务计划&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2443" y="34" width="199" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-24" value="" style="endArrow=classic;html=1;rounded=0;fontSize=11;exitX=0.53;exitY=0.324;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="NTN1xod6j5wi56fNGffL-14" target="NTN1xod6j5wi56fNGffL-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2605" y="96" as="sourcePoint" />
+            <mxPoint x="2655" y="46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NTN1xod6j5wi56fNGffL-25" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;创建成功&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2443" y="64" width="199" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
