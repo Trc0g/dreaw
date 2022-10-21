@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-24T06:11:19.142Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NU6mIPO3CiIRa2n844CC" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-21T09:34:27.053Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1-Xk7WXIR-P4nlhsfMOQ" version="20.3.6" type="github">
   <diagram id="WiWz7q4bYspyMZFVrQvD" name="Page-1">
-    <mxGraphModel dx="3598" dy="1575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12580" dy="7390" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,28 +545,28 @@
         <mxCell id="1dzFbmh5JjCaL7cE0-rO-153" value="&lt;font style=&quot;font-size: 14px&quot;&gt;我是弱口令&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1328" y="641" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-1" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-1278" y="1422" width="120" height="48" as="geometry" />
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-1" value="平台下载&lt;br&gt;插件文件" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-1279" y="1314" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-2" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-1172" y="1422" width="120" height="48" as="geometry" />
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-2" value="Jenkins 上传&lt;br&gt;文件安装插件" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-1173" y="1314" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-3" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-1066" y="1422" width="120" height="48" as="geometry" />
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-3" value="平台创建&lt;br&gt;自定义策略" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-1067" y="1314" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-4" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="-960" y="1422" width="120" height="48" as="geometry" />
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-4" value="Jenkins 粘贴&lt;br&gt;策略命令" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+          <mxGeometry x="-961" y="1314" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-5" value="&amp;nbsp; &amp;nbsp; 安装扫描探针" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-5" value="创建本地扫描&lt;br&gt;探针安装命令" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1272" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-6" value="&amp;nbsp; &amp;nbsp; 下发扫描任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-6" value="目标服务器&lt;br&gt;本地运行命令" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1166" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-7" value="&amp;nbsp; &amp;nbsp; 获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-7" value="下发本地&lt;br&gt;资产清点任务" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-1060" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="o80PGUDMu1hdrSbNVfSi-8" value="&amp;nbsp; &amp;nbsp; 参考修复建议" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
+        <mxCell id="o80PGUDMu1hdrSbNVfSi-8" value="获取检测结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-954" y="1537" width="120" height="48" as="geometry" />
         </mxCell>
         <mxCell id="kfQ9abdrMmmxYPJmiIRy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="kfQ9abdrMmmxYPJmiIRy-1" target="kfQ9abdrMmmxYPJmiIRy-2" edge="1">
@@ -712,6 +712,18 @@
         </mxCell>
         <mxCell id="kfQ9abdrMmmxYPJmiIRy-50" value="仓库资产下载插件" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="-1474" y="-254" width="139" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjWXzW7t9nw18Z2ienlS-1" value="查看资产数据" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-848" y="1537" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjWXzW7t9nw18Z2ienlS-2" value="Jenkins 触发&lt;br&gt;构建" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-855" y="1314" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjWXzW7t9nw18Z2ienlS-3" value="开始安全&lt;br&gt;扫描检测" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-749" y="1314" width="120" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjWXzW7t9nw18Z2ienlS-4" value="平台查看&lt;br&gt;扫描结果" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#007FFF;strokeWidth=3;" vertex="1" parent="1">
+          <mxGeometry x="-643" y="1314" width="120" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
